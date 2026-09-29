@@ -1,0 +1,5 @@
+customtkinter==5.2.2
+pandas==3.0.3
+openpyxl==3.1.5
+pywin32==311
+requests==2.34.2
